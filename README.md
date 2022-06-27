@@ -30,5 +30,7 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![Lang](https://github.com/paolo2000h/Stats/blob/10aed7621f18f5bd7b31e5f7b6d836c61c133699/generated/languages.svg) 
-![Stats](https://github.com/paolo2000h/Stats/blob/1d902c2ccbcd54feb8d66f59aeda3f321469795a/generated/overview.svg)
+![](https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=nord&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paolo2000h&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolo2000h&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
