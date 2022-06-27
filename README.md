@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I'm studying Computer Science at University of Science and Technology in Wrocław</h3>
 
-### Skills  
+### 💻 Tech Stack:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
