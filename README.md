@@ -30,5 +30,6 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolo2000h&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo2000h&show_icons=true&locale=en&layout=compact" alt="paolo2000h" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paolo2000h&show_icons=true&locale=en" alt="paolo2000h" /></p>
