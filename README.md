@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">I'm studying Computer Science at University of Science and Technology in the Faculty of Information and Communication Technology</h3>
+<h3 align="center">I'm studying Computer Science at University of Science and Technology in Wrocław</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
