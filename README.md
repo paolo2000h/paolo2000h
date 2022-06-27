@@ -30,6 +30,5 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paolo2000h&show_icons=true&locale=en&layout=compact" alt="paolo2000h" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paolo2000h&show_icons=true&locale=en" alt="paolo2000h" /></p>
+![Lang](https://github.com/paolo2000h/Stats/blob/10aed7621f18f5bd7b31e5f7b6d836c61c133699/generated/languages.svg) 
+![Stats](https://github.com/paolo2000h/Stats/blob/1d902c2ccbcd54feb8d66f59aeda3f321469795a/generated/overview.svg)
