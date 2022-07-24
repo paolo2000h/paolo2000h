@@ -7,7 +7,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,androidstudio,spring,java,git,gitlab,jenkins,mysql" />
   </a>
 </p>
-# 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" height="150" width="400"/>
