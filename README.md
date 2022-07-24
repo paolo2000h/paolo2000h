@@ -16,15 +16,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-  
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
-
-<br/>  
 
 # 📊 GitHub Stats:
 <a href="https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true">
