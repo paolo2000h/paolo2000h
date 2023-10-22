@@ -4,7 +4,7 @@
 ### 💻 Tech Stack:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,androidstudio,spring,java,git,gitlab,jenkins,mysql" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,spring,git" />
   </a>
 </p>
 
