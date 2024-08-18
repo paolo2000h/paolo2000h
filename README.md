@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true" height="150" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="150" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolo2000h&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" width="400"/>
 </p>
 
